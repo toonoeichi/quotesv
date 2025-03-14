@@ -1,0 +1,35 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Quotes format for QuoteSV",
+    "type": "object",
+    "properties": {
+      "quotes": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "quote": {
+              "description": "The quote message.",
+              "type": "string"
+            },
+            "origin": {
+              "description": "Origin of the quote, Where it comes from? Who wrote it?",
+              "type": "string"
+            },
+            "type": {
+              "description": "Type of quote, like maybe a lyrics of the song, or some quotes from the games you love.",
+              "type": "string"
+            }
+          },
+          "required": [
+            "quote",
+            "origin",
+            "type"
+          ]
+        }
+      }
+    },
+    "required": [
+      "quotes"
+    ]
+  }
