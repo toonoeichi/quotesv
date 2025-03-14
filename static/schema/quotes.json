@@ -23,7 +23,6 @@
           },
           "required": [
             "quote",
-            "origin",
             "type"
           ]
         }
