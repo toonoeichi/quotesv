@@ -1,0 +1,34 @@
+{
+    "quotes" : [
+        {
+            "quote": "A hopeless romantic all my life Surrounded by couples all the time I guess I should take it as a sign.",
+            "origin": "Cupid (Twin Ver) by FIFTY FIFTY",
+            "type": "lyrics"
+        },
+        {
+            "quote": "Some Temporary string here.",
+            "origin": "Merlin on Windows Whistler build 2410",
+            "type": "beta-windows-quote"
+        },
+        {
+            "quote": "The cake is a lie.",
+            "origin": "Portal",
+            "type": "games"
+        },
+        {
+            "quote": "You, [Subject Name Here], Must Be The Pride Of [Subject Hometown Here]",
+            "origin": "GlaDOS, Portal",
+            "type": "games"
+        },
+        {
+            "quote": "Despite Your Violent Behavior, The Only Thing You’ve Managed To Break So Far Is My Heart.",
+            "origin": "GlaDOS, Portal",
+            "type": "games"
+        },
+        {
+            "quote": "Weeeeeeeeeeeeeeeeeeeeee[bzzt]",
+            "origin": "GlaDOS, Portal",
+            "type": "games"
+        }
+    ]
+}
